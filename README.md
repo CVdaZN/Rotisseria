@@ -1,2 +1,2 @@
 # Rotisseria
- Este script que edifica ou sistema de gerenciamento de dados de uma Rotisseria atribui funcionalidade a tuplas, tabelas e registro da empresa.
+ Este script edifica o sistema de gerenciamento de dados de uma Rotisseria atribuindo funcionalidade através de tuplas, tabelas e registro. 
